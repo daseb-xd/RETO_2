@@ -1,6 +1,6 @@
 # RETO_2
 Diagrama de clases de un computador
-En este diagrama, dividi el computador en 2 clases, componentes y sistema operativo, estos a su vez tienen sus propias clases y atributos.
+En este diagrama, dividí el computador en 2 clases, componentes y sistema operativo, estos a su vez tienen sus propias clases y atributos.
 ```mermaid
 classDiagram
 class Computer {
