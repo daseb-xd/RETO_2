@@ -12,7 +12,7 @@ class Computer {
 
 class Components {
     +string manufacturer
-    +int release_date
+    +list release_date
     +string color
     +float MSRP
     +Function()
