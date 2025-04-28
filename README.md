@@ -107,6 +107,7 @@ Components <|-- Case
 OS <|-- Windows
 OS <|-- Linux_distro
 ```
+P.D. Cada clase tiene un constructor para que cada objeto pueda usar valores distintos y definirse de manera distinta
 
 
 
